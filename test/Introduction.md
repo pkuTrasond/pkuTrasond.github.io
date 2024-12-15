@@ -3,4 +3,4 @@ sort: 12
 ---
 # Welcome to SPOT. ../-/..
 
-<img src="../assets/images/logo.png" alt="logo" style="zoom:50%;" />
+<img src="https://github.com/pkuTrasond/pkuTrasond.github.io/assets/images/LOGO.png" alt="logo" style="zoom:50%;" />
